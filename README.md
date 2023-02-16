@@ -1,9 +1,12 @@
-# Fake Colombian banknote detecttion
-In this repository, deep learning algorithm is used to predict fake COP banknotes and deployed using streamlit. The core library is [PyTorch](https://pytorch.org). Transfer learning was used to transfer weights from the ResNet series of pretrained models.
+# Deep learning in Banking: Colombian Peso Banknote Detection
+Problem Statement
+As we have discussed in the introduction, it is a challenge for most individuals to tell between a fake banknote and a genuine one. Most people do not have any skill in this area and can get easily fooled into exchanging their good currency for fakes by scammers. We will embark on the challenge of solving this problem by using original and fake Colombian banknotes made available professionally for research.
 
 The Colombian peso (sign: , with Col$. also being used to distinguish it from other peso- and dollar-denominated currencies. (Wikipedia)
 
 In this project, Deep learning algorithm is used to predict fake COP banknotes. The core library is PyTorch. Transfer learning was used to transfer weights from the ResNet series of pretrained models.
+
+![money-1292162_1280](https://user-images.githubusercontent.com/65142149/219488704-f873733c-46c9-4a4b-8b76-759c93f646d8.jpg)
 
 # About the dataset
 **Description**
