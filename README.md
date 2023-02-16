@@ -1,5 +1,7 @@
 # Deep learning in Banking: Colombian Peso Banknote Detection
 
+![download (1)](https://user-images.githubusercontent.com/65142149/219489043-ce2eb464-ee4e-443a-9e9a-a164097773a7.png)
+
 ## Problem Statement
 As we have discussed in the introduction, it is a challenge for most individuals to tell between a fake banknote and a genuine one. Most people do not have any skill in this area and can get easily fooled into exchanging their good currency for fakes by scammers. We will embark on the challenge of solving this problem by using original and fake Colombian banknotes made available professionally for research.
 
