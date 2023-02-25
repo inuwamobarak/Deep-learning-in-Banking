@@ -1,5 +1,7 @@
 # Deep learning in Banking: Colombian Peso Banknote Detection
 
+Link to Project article: https://www.analyticsvidhya.com/blog/2023/02/deep-learning-in-banking-colombian-peso-banknote-detection/
+
 ![download (1)](https://user-images.githubusercontent.com/65142149/219489043-ce2eb464-ee4e-443a-9e9a-a164097773a7.png)
 
 ## Problem Statement
