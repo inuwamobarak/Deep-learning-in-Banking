@@ -21,3 +21,11 @@ The dataset can be used to check for the detection of denominations and counterf
 * It contains illumination variations, rotation, and partial views of the banknotes. Contains 3 folders each of 20800 images, corresponding to ds1, ds2, and ds3.
 * Each folder contains a training, validation, and test sub-folder, which contains the images.
 * All classes are balanced in the number of images.
+
+### 
+Feel free to follow me on social media:
+
+https://twitter.com/InuwaAbraham
+https://www.analyticsvidhya.com/blog/author/inuwamobarak/
+https://www.linkedin.com/in/mobarak-inuwa/
+https://mobarak.mystrikingly.com/
