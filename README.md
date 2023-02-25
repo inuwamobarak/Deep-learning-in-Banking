@@ -26,6 +26,9 @@ The dataset can be used to check for the detection of denominations and counterf
 Feel free to follow me on social media:
 
 https://twitter.com/InuwaAbraham
+
 https://www.analyticsvidhya.com/blog/author/inuwamobarak/
+
 https://www.linkedin.com/in/mobarak-inuwa/
+
 https://mobarak.mystrikingly.com/
