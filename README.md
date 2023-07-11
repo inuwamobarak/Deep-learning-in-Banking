@@ -1,34 +1,34 @@
-# Deep learning in Banking: Colombian Peso Banknote Detection
+# Deep Learning in Banking: Colombian Peso Banknote Detection
 
-Link to Project article: https://www.analyticsvidhya.com/blog/2023/02/deep-learning-in-banking-colombian-peso-banknote-detection/
+Link to Project Article: [Deep Learning in Banking: Colombian Peso Banknote Detection](https://www.analyticsvidhya.com/blog/2023/02/deep-learning-in-banking-colombian-peso-banknote-detection/)
 
-![download (1)](https://user-images.githubusercontent.com/65142149/219489043-ce2eb464-ee4e-443a-9e9a-a164097773a7.png)
+![Project Image](https://user-images.githubusercontent.com/65142149/219489043-ce2eb464-ee4e-443a-9e9a-a164097773a7.png)
 
 ## Problem Statement
-As we have discussed in the introduction, it is a challenge for most individuals to tell between a fake banknote and a genuine one. Most people do not have any skill in this area and can get easily fooled into exchanging their good currency for fakes by scammers. We will embark on the challenge of solving this problem by using original and fake Colombian banknotes made available professionally for research.
+The challenge of distinguishing between genuine and fake banknotes poses a significant problem for individuals. Many people lack the necessary skills to detect counterfeit banknotes, making them vulnerable to scammers. In this project, we aim to tackle this challenge by utilizing a dataset of original and fake Colombian banknotes specifically created for research purposes.
 
-The Colombian peso (sign: , with Col$. also being used to distinguish it from other peso- and dollar-denominated currencies. (Wikipedia)
+The Colombian peso (sign: $, with Col$ also being used to distinguish it from other peso- and dollar-denominated currencies) is the official currency of Colombia. (Wikipedia)
 
 ## Approach
-In this project, Deep learning algorithm is used to predict fake COP banknotes. The core library is PyTorch. Transfer learning was used to transfer weights from the ResNet series of pretrained models.
+In this project, we employ a deep learning algorithm to predict fake Colombian peso (COP) banknotes. The core library utilized is PyTorch, and transfer learning is employed by leveraging pretrained weights from the ResNet series of models.
 
-![money-1292162_1280](https://user-images.githubusercontent.com/65142149/219488704-f873733c-46c9-4a4b-8b76-759c93f646d8.jpg)
+![Banknote Image](https://user-images.githubusercontent.com/65142149/219488704-f873733c-46c9-4a4b-8b76-759c93f646d8.jpg)
 
-## About the dataset
-**Description**
-The dataset can be used to check for the detection of denominations and counterfeits in banknotes.
-* The dataset consists of 20800 images, which contain 13 classes, where 6 correspond to original banknotes, another 6 to counterfeits, and 1 additional category for the background.
-* It contains illumination variations, rotation, and partial views of the banknotes. Contains 3 folders each of 20800 images, corresponding to ds1, ds2, and ds3.
-* Each folder contains a training, validation, and test sub-folder, which contains the images.
-* All classes are balanced in the number of images.
+## About the Dataset
+**Description:**
+The dataset provided can be used for detecting banknote denominations and counterfeit banknotes.
+* The dataset consists of 20,800 images, categorized into 13 classes. This includes 6 classes for original banknotes, 6 classes for counterfeit banknotes, and 1 additional category for the background.
+* The dataset incorporates variations in illumination, rotation, and partial views of the banknotes. It is divided into three folders: ds1, ds2, and ds3, each containing 20,800 images.
+* Each folder further consists of training, validation, and test sub-folders, containing the respective images.
+* The dataset is balanced, ensuring an equal number of images for each class.
 
 ### 
-Feel free to follow me on social media:
+Feel free to connect with me on social media:
 
-https://twitter.com/InuwaAbraham
+Twitter: [@InuwaAbraham](https://twitter.com/InuwaAbraham)
 
-https://www.analyticsvidhya.com/blog/author/inuwamobarak/
+Analytics Vidhya: [Author - Inuwa Mobarak](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
 
-https://www.linkedin.com/in/mobarak-inuwa/
+LinkedIn: [Mobarak Inuwa](https://www.linkedin.com/in/mobarak-inuwa/)
 
-https://mobarak.mystrikingly.com/
+Personal Website: [Mobarak Inuwa](https://mobarak.mystrikingly.com/)
